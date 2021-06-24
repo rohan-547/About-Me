@@ -3,7 +3,7 @@
 I’m a YouTuber who is doing programming for more than 3 years 
 because I love coding and believe, it is the future of Computer Industry.
 
-* 😊 I’m also a human and is not **completely perfect** at programming. 
+* 😊 I’m also a human and is not **completely perfect** at programming. You can **give suggestions or correct my mistakes** which helps everyone.
      **Learning never ends**, so I **explore topics** in various fields of programming like Game and Application Development, and many more.
 
 * 💁🏼‍♂️ I’m looking forward to **help many people who are interested in programming**.
@@ -14,7 +14,7 @@ because I love coding and believe, it is the future of Computer Industry.
 * 🗒 I will be **posting all the files related to my YouTube channel** and other things like
      **Projects, Applications, Websites, Code Snippets, Games and many more!**
 
-* 😃 You can **access everything you need to get better at Python Programming.**
+* 😃 You can **access everything you need to get better at Programming.**
 
 
 
