@@ -8,7 +8,7 @@ because I love coding and believe, it is the future of IT Industry.
 
 * 💁🏼‍♂️ I’m looking forward to **help many people who are interested in programming**.
 
-* 💬 You can join my **Discord Server** or on **GitHub** to have a discussion with me.
+* 💬 You can join my **Discord Server** or on **GitHub** to have a discussion.
 
 * 🗒 I will be **posting all the files related to my YouTube channel** and other things like
      **Projects, Applications, Websites, Code Snippets, Games and many more!**
