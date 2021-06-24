@@ -1,7 +1,7 @@
 ## Hello Everyone!
 
-I’m a YouTuber who is doing programming for more than 3 years 
-because I love coding and believe, it is the future of Computer Industry.
+I’m a YouTuber who is doing programming for more than 2.5 years 
+because I love coding and believe, it is the future of IT Industry.
 
 * 😊 I’m also a human and is not **completely perfect** at programming. You can **give suggestions or correct my mistakes** which helps everyone.
      **Learning never ends**, so I **explore topics** in various fields of programming like Game and Application Development, and many more.
