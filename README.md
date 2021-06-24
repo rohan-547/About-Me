@@ -7,7 +7,6 @@ because I love coding and believe, it is the future of IT Industry.
      **Learning never ends**, so I **explore topics** in various fields of programming like Game and Application Development, and many more.
 
 * 💁🏼‍♂️ I’m looking forward to **help many people who are interested in programming**.
-     Some people **find programming very hard and quit** which results in the **computer industry losing brilliant minds**.
 
 * 💬 You can join my **discord server** to have a discussion with me or have a conversation with me in **discussion page on GitHub**.
 
@@ -15,7 +14,6 @@ because I love coding and believe, it is the future of IT Industry.
      **Projects, Applications, Websites, Code Snippets, Games and many more!**
 
 * 😃 You can **access everything you need to get better at Programming.**
-
 
 
 **Hope You Enjoy !!!**
