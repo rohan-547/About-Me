@@ -5,7 +5,7 @@ am looking forward to becoming a Programming Freelancer on Fiverr.com :)
 
 * 💬 You can chat with me on **GitHub**.
 * 🗒 I will be **posting files related to Software Development**.
-* 😃 You can **access many tech things**, if interested.
+* 😃 You can **see my projects**, if interested.
 
 **Hope You Enjoy !!!**
 
