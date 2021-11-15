@@ -1,22 +1,13 @@
 ## Hello Everyone!
 
-I’m a YouTuber who is doing programming for more than 2.5 years 
-because I love coding and believe, it is the future of IT Industry.
+I started doing programming 1.5 years ago and 
+am looking forward to becoming a Programming Freelancer on Fiverr.com :) 
 
-* 😊 **To Err is Human**. Your **suggestions are most welcome**.
-     **Learning never ends**, so I **explore topics** in various fields of programming like Game and Application Development, and many more.
-
-* 💁🏼‍♂️ I’m looking forward to **help many people who are interested in programming**.
-
-* 💬 You can join my **Discord Server** or on **GitHub** to have a discussion.
-
-* 🗒 I will be **posting all the files related to my YouTube channel** and other things like
-     **Projects, Applications, Websites, Code Snippets, Games and many more!**
-
-* 😃 You can **access everything you need to get better at Programming.**
-
+* 💬 You can chat with me on **GitHub**.
+* 🗒 I will be **posting files related to Software Development**.
+* 😃 You can **access many tech things**, if interested.
 
 **Hope You Enjoy !!!**
 
 
-![Ωmega Wallpaper](https://user-images.githubusercontent.com/65707682/123212568-9c01e780-d4e2-11eb-83ec-ff3340ec650e.jpeg)
+https://www.onlinecourses24x7.com/wp-content/uploads/2018/02/R-Programming-A-Z%E2%84%A2-R-For-Data-Science-With-Real-Exercises.jpg
